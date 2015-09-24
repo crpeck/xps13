@@ -1,0 +1,3 @@
+#!/bin/bash
+#puppet apply --modulepath=/etc/puppet/modules xps13.pp
+sudo puppet apply xps13.pp
