@@ -16,6 +16,7 @@ package { [
   'git',
   'pidgin',
   'puppet-lint',
+   's3cmd',
   'vim',
   ]:
   ensure => present,
